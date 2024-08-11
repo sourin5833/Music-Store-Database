@@ -16,4 +16,4 @@ This project is for analyzing the music playlist database. You can examine the d
 <img src="MusicDatabaseSchema.png" alt="schema">
 
 # Coding Part
-<img src="visuals code.png" alt="coding">
+<img src="visual code.png" alt="coding">
